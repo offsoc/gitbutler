@@ -45,7 +45,7 @@
 		"@terrazzo/cli": "^0.2.1",
 		"@terrazzo/plugin-css": "^0.1.2",
 		"@types/postcss-pxtorem": "^6.1.0",
-		"@vitest/browser": "^2.1.6",
+		"@vitest/browser": "^2.1.9",
 		"autoprefixer": "^10.4.20",
 		"cpy-cli": "^5.0.0",
 		"dayjs": "^1.11.13",
@@ -61,7 +61,7 @@
 		"svelte": "catalog:svelte",
 		"svelte-check": "catalog:svelte",
 		"vite": "catalog:",
-		"vitest": "^2.1.6"
+		"vitest": "^2.1.9"
 	},
 	"peerDependencies": {
 		"svelte": "^4.0.0 || ^5.0.0-0"

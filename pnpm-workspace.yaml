@@ -4,11 +4,11 @@ packages:
   - 'crates/*'
 
 catalog:
-  vite: 5.4.11
+  vite: 5.4.12
 catalogs:
   svelte:
     svelte: 5.2.1
-    '@sveltejs/kit': 2.8.1
+    '@sveltejs/kit': 2.8.3
     svelte-check: 4.0.9
     '@sveltejs/vite-plugin-svelte': 4.0.1
     '@sveltejs/adapter-static': 3.0.6
